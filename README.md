@@ -1,20 +1,19 @@
-# :eyeglasses: [Flashcards](http://karenfreemansmith.github.io/flashcards) :memo:
-![project screenshot](/img/screenshot.jpg)
+# JavaScript Flashcards
+Version 0.0.1: March 29, 2016
+by [Karen Freeman-Smith](https://karenfreemansmith.github.io)
 
-__Version 1: March 29, 2016__
+### Technologies Used
+HTML, CSS, Bootstrap, JavaScript, jQuery
 
-## by [Karen Freeman-Smith](http://karenfreemansmith.github.io)
+![screenshot of project running](screenshot.png)
 
-### Description
-__*JavaScript Flashcards*__
-
-## Technologies Used
-HTML, CSS
+## Description
+*[Learn How To Program](http://learnhowtoprogram.com) Intro to Programming Week 2 Individual Project: Build a set of flashcards with jQuery.*
 
 ## Setup/Installation
-* [View on Github Pages](https://karenfreemansmith.github.io/EpicIntroWk1-PetWebsite)
+* [View on Github Pages](https://karenfreemansmith.github.io/LHP-IntroWk2-Flashcards)
 * _OR_
-* Clone diectory 
+* Clone directory
 * Open index.html in your favorite browser
 
 ## Support & Contact
